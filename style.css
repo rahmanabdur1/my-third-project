@@ -26,3 +26,33 @@
     background-color: rgb(0, 255, 149);
     padding: 8px 30px;
 }
+.dream-big{
+    text-align: center;
+    color:black;
+    padding-top: 09px;
+}
+.dream-big h1{
+    font-size: 32px;
+}
+.dream-big p{
+    font-size: 15px;
+}
+.row {
+margin-top: 2px;
+display: flex;
+justify-content: space-between;
+}
+.course-col{
+    flex-basis: 5px;
+    background-color: #fff;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 03s;
+}
+h3{
+     text-align:center;
+}
+
+
